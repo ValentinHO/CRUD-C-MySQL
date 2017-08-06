@@ -1,0 +1,9 @@
+C:\Users\Propietario\Documents\ProyectosC#\mysql\ConexionMySQL\ConexionMySQL\bin\Debug\ConexionMySQL.exe.config
+C:\Users\Propietario\Documents\ProyectosC#\mysql\ConexionMySQL\ConexionMySQL\bin\Debug\ConexionMySQL.exe
+C:\Users\Propietario\Documents\ProyectosC#\mysql\ConexionMySQL\ConexionMySQL\bin\Debug\ConexionMySQL.pdb
+C:\Users\Propietario\Documents\ProyectosC#\mysql\ConexionMySQL\ConexionMySQL\obj\Debug\ConexionMySQL.csprojResolveAssemblyReference.cache
+C:\Users\Propietario\Documents\ProyectosC#\mysql\ConexionMySQL\ConexionMySQL\obj\Debug\ConexionMySQL.Form1.resources
+C:\Users\Propietario\Documents\ProyectosC#\mysql\ConexionMySQL\ConexionMySQL\obj\Debug\ConexionMySQL.Properties.Resources.resources
+C:\Users\Propietario\Documents\ProyectosC#\mysql\ConexionMySQL\ConexionMySQL\obj\Debug\ConexionMySQL.csproj.GenerateResource.Cache
+C:\Users\Propietario\Documents\ProyectosC#\mysql\ConexionMySQL\ConexionMySQL\obj\Debug\ConexionMySQL.exe
+C:\Users\Propietario\Documents\ProyectosC#\mysql\ConexionMySQL\ConexionMySQL\obj\Debug\ConexionMySQL.pdb
